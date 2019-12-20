@@ -92,7 +92,7 @@ let prizes = [{
  * 一次抽取的奖品个数
  * 顺序为：[特别奖，一等奖，二等奖，三等奖，四等奖，五等奖]
  */
-const EACH_COUNT = [1, 1, 1, 1, 5, 10];
+const EACH_COUNT = [1, 1, 1, 1, 1, 5];
 // 公司名称，用于显示在抽奖名单的title部分
-const COMPANY = '明略科技';
+const COMPANY = 'MoShang';
 ```
